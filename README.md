@@ -1,5 +1,7 @@
 Liquidsoap Requester -- PHP web app to control your Liquidsoap Audio Stream Generator
 
+based on - https://github.com/QuinnEbert/Liquidsoap-Requester
+
 Requirements:
 
  * PHP of version 5 or later (PHP v4 not supported)
