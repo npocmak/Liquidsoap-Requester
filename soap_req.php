@@ -110,7 +110,7 @@ function cpu_stat() {
     if (!$fp) {
       return("<b><u>TELNET FAILURE:</u> $errstr ($errno)</b><br>");
     } else {
-      fwrite($fp, "requests.push ".str_replace("\\'","'",str_replace('&amp;','&',urldecode($reqFile)))."\nquit\n");
+      fwrite($fp, "request.push ".str_replace("\\'","'",str_replace('&amp;','&',urldecode($reqFile)))."\nquit\n");
       $eat = '';
       while (!feof($fp)) {
         $eat .= fgets($fp, 1024);
