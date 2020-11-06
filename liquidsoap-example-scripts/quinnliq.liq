@@ -59,7 +59,7 @@ output.icecast(%mp3(
   password="your_password_here",
   genre="Mixed,Various,Other",
   url="http://www.QuinnEbert.net/",
-  description = "Automation Powered By Liquidsoap.  Visit www.QuinnEbert.net for contract-based Liquidsoap setup and customisation!",
+  description = "Automation Powered By Liquidsoap.",
   public=true,
   radio)
 # 
