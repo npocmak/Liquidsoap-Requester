@@ -1,10 +1,4 @@
 <?php
-  /*
-     "View" to show PHP software information
-     
-     Part of Liquidsoap requester by Quinn Ebert
-     <http://www.quinnebert.net>
-  */
       if (isset($_SERVER) && is_array($_SERVER)) {
         ?>
         <tr><td colspan="2" valign="top" align="center">
