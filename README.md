@@ -10,5 +10,5 @@ Requirements:
 
 Notes about Liquidsoap 1.0:
 
- * On 6th Оцтобер 2020, I tested the example script with Liquidsoap 1.0.1, as provided by Debian 7's default repositories.  The script seemed to start appropriately, queueing of tracks worked, but I was less than impressed with the reliability of playback order--I will be looking into this.
+ * On 6th October 2020, I tested the example script with Liquidsoap 1.0.1, as provided by Debian 7's default repositories.  The script seemed to start appropriately, queueing of tracks worked, but I was less than impressed with the reliability of playback order--I will be looking into this.
 
